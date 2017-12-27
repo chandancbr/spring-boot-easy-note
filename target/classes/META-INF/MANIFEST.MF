@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: easy-notes
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Hi
+Built-By: Icarat3
 Implementation-Vendor-Id: com.gavi
-Build-Jdk: 1.8.0_40
+Build-Jdk: 1.8.0_131
 Implementation-URL: http://projects.spring.io/spring-boot/easy-notes/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
